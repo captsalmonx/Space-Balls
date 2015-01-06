@@ -5,7 +5,13 @@
 *.suo
 *.user
 *.userosscache
+*.sln
 *.sln.docstates
+*.png
+*.mp3
+*.wav
+*.spritefont
+*.ico
 
 # Build results
 [Dd]ebug/
