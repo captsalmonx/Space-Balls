@@ -1,4 +1,4 @@
-# Space-Balls
+# Space Balls II
 Gravity golf in space with wacky physics.
 
 This is a second year games programming assignment to demonstrate Newtonian physics in the context of a game.
